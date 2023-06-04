@@ -1,1 +1,2 @@
 # sflix_scraper
+This script scrapes movie details from a specific website and saves them to separate CSV files for each page. It uses requests and BeautifulSoup for web scraping. The main code section sets parameters, iterates over pages, extracts movie details, and writes them to CSV files. It's a versatile script that can be adapted for other scraping tasks by modifying the HTML parsing and data extraction logic.
